@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# My first page
+## github page
 
 You can use the [editor on GitHub](https://github.com/wantongtang/wantongtang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
